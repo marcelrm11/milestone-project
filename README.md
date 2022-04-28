@@ -1,4 +1,15 @@
-# proyecto-final
+# milestone-project
+
+## Project name
+```
+Online Photo Albums:
+This project combines Vuejs with Vuex, Router, Bootstrap and API calls using axios.
+```
+
+## Contact Info
+```
+marcelrm11@gmail.com || Marcel Roig Medina
+```
 
 ## Project setup
 ```
